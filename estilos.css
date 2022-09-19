@@ -1,0 +1,32 @@
+.cuadrado1 {
+    width: auto;
+    height: 80px;
+    background-color: rgb(60, 20, 20);
+    margin-bottom: 20px;
+    display: absolute;
+
+}
+.cuadrado2 {
+    width: auto;
+    height: 600px;
+    background-color: blue;
+    margin-bottom: 20px;
+    position: relative;
+    display: inline-block;
+
+}
+.cuadrado3 {
+    width: auto;
+    height: 2000px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+
+}
+.foto{
+    
+    position: absolute;
+    left: 500px;
+
+}
+
+
